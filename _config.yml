@@ -1,6 +1,6 @@
 title: KVSlab's homepage
 author: Henrik A. Kjeldsberg
-# logo: "logo.png"
+logo: "logo.png"
 copyright: "2022"
 only_build_toc_files: true
 description: Homepage for all projects related to the KVSlab organization.
