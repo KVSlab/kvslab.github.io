@@ -3,8 +3,12 @@
 
 format: jb-book
 root: index
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
-- file: installation
+
+parts:
+  - caption: Publications
+    chapters:
+    - file: software
+
+  - caption: Contact
+    chapters:
+    - file: authors
