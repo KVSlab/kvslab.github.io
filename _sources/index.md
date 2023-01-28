@@ -7,6 +7,6 @@ This web-page will present an overview of the projects that are completed and cu
 
 - [VaMPy](https://kvslab.github.io/VaMPy/)
 - [morphMan](https://morphman.readthedocs.io)
-- [OasisMove](https://oasismove.readthedocs.io)
+- [OasisMove](https://kvslab.github.io/OasisMove)
 - [TurtleFSI](https://turtlefsi2.readthedocs.io)
 - [Bloodflow 1D](https://bloodflow.readthedocs.io)
